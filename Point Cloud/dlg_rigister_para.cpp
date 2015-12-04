@@ -1,0 +1,1 @@
+#include "UI/dlg_rigister_para.h"
